@@ -6,14 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+Enthusiast;DSA+Problem+Solver;Learning+Spring+Boot+and+REST+APIs" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=justayush18&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <h2 align="center">👋 Welcome to My GitHub Profile</h2>
 
 <p align="center">
-Passionate Java Developer focused on building scalable backend applications and continuously improving problem-solving skills through Data Structures & Algorithms.
+  <h3 align="center">
+Java Developer | Backend Enthusiast | DSA Problem Solver
+</h3>
 </p>
 
 <p align="center">
