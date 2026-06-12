@@ -8,11 +8,9 @@
 
 <h2 align="center">👋 Welcome to My GitHub Profile</h2>
 
-<p align="center">
   <h3 align="center">
 Java Developer | Backend Enthusiast | DSA Problem Solver
 </h3>
-</p>
 
 <p align="center">
   <a href="mailto:solayush01@gmail.com">
@@ -57,6 +55,7 @@ Java Developer | Backend Enthusiast | DSA Problem Solver
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ---
 
