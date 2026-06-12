@@ -2,10 +2,6 @@
   <img src="banner.png" width="100%" alt="Banner">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+Enthusiast;DSA+Problem+Solver;Learning+Spring+Boot+and+REST+APIs" alt="Typing SVG" />
-</p>
-
 <h2 align="center">👋 Welcome to My GitHub Profile</h2>
 
   <h3 align="center">
