@@ -1,33 +1,38 @@
 <p align="center">
-  <img src="banner.png" width="900" alt="Banner">
-</p>
-<h1 align="center">Hi 👋, I'm Ayush Solanki</h1>
-
-<h3 align="center">
-Java Developer | Backend Enthusiast | DSA Problem Solver
-</h3>
-
-<p align="center">
-Building Scalable Backend Solutions
+  <img src="banner.png" width="100%" alt="Banner">
 </p>
 
 <p align="center">
-<a href="mailto:solayuhs01@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+Enthusiast;DSA+Problem+Solver;Learning+Spring+Boot+and+REST+APIs" alt="Typing SVG" />
+</p>
 
-<a href="https://www.linkedin.com/in/ayush-solanki-454b29361/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=justayush18&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<h2 align="center">👋 Welcome to My GitHub Profile</h2>
+
+<p align="center">
+Passionate Java Developer focused on building scalable backend applications and continuously improving problem-solving skills through Data Structures & Algorithms.
+</p>
+
+<p align="center">
+  <a href="mailto:solayush01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+  </a>
+
+  <a href="https://www.linkedin.com/in/ayush-solanki-454b29361/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 MSc CS & IT Student at JAIN University
+🎓 MSc Computer Science & Information Technology Student at JAIN University
 
-💻 Passionate about Software Development and Problem Solving
+💻 Passionate about Software Development and Backend Engineering
 
 🌱 Currently Learning
 
@@ -49,57 +54,47 @@ Building Scalable Backend Solutions
 
 ## 🛠 Tech Stack
 
-### Languages
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Database
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Learning
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧩 Sudoku Solver
+A Java application that solves Sudoku puzzles using the Backtracking Algorithm.
 
-Java-based Sudoku Solver using Backtracking Algorithm.
+**Tech Stack:** Java, Recursion, DSA
 
 🔗 https://github.com/justayush18/sudoku-solver-java
 
 ---
 
 ### 🌐 Friendship Graph Network
+A graph-based social network simulator that models relationships and network connections between users.
 
-Graph-based social network simulation demonstrating relationships between users.
+**Tech Stack:** Java, Graphs, DSA
 
 🔗 https://github.com/justayush18/friendship-graph-network
 
 ---
 
 ### 📚 DSA Java Codes
+A collection of Data Structures and Algorithms implementations and coding practice solutions.
 
-Collection of Data Structures and Algorithms implementations in Java.
+**Tech Stack:** Java, DSA
 
 🔗 https://github.com/justayush18/DsaJavaCodes
 
 ---
 
 ### ☕ Basic Java Codes
+Core Java concepts, OOP examples, loops, arrays, methods, and beginner-friendly programs.
 
-Core Java concepts, OOP examples and programming fundamentals.
+**Tech Stack:** Java
 
 🔗 https://github.com/justayush18/BasicJavaCodes
 
@@ -108,15 +103,23 @@ Core Java concepts, OOP examples and programming fundamentals.
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=justayush18&show_icons=true&theme=github_dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justayush18&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justayush18&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justayush18&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justayush18&theme=github-dark-blue"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-✔ Mastering DSA
+✔ Mastering Data Structures & Algorithms
 
 ✔ Building Spring Boot Projects
 
@@ -128,7 +131,7 @@ Core Java concepts, OOP examples and programming fundamentals.
 
 ## 🤝 Connect With Me
 
-📧 Email: solayuhs01@gmail.com
+📧 Email: solayush01@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/ayush-solanki-454b29361/
