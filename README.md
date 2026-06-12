@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Ayush Solanki Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Ayush Solanki</h1>
 
 <h3 align="center">
