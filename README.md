@@ -123,7 +123,8 @@ Core Java concepts, OOP examples, loops, arrays, methods, and beginner-friendly 
 ---
 
 ## 🤝 Connect With Me
-[📧 Email:](kimaxs22@gmail.com)
+
+📧 Email: kimaxs22@gmail.com
 
 
 [💼 LinkedIn:](https://www.linkedin.com/in/ayush-solanki-454b29361/)
