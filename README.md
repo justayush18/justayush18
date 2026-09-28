@@ -127,4 +127,4 @@ Core Java concepts, OOP examples, loops, arrays, methods, and beginner-friendly 
 📧 Email: kimaxs22@gmail.com
 
 
-[💼 LinkedIn:](https://www.linkedin.com/in/ayush-solanki-454b29361/)
+[💼 LinkedIn](https://www.linkedin.com/in/ayush-solanki-454b29361/)
